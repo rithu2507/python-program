@@ -1,0 +1,12 @@
+a=15
+b=4
+c=a+b
+s=a-b
+m=a*b
+d=a/b
+r=a%b
+print("Addition:",c)
+print("Subtraction:",s)
+print("Multiplication:",m)
+print("Division:",d)
+print("Remainder:",r)
